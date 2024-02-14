@@ -1,0 +1,22 @@
+.bak{
+    background-image: url(https://images.pexels.com/photos/18069238/pexels-photo-18069238/free-photo-of-an-artist-s-illustration-of-artificial-intelligence-ai-this-image-represents-how-ai-powered-tools-can-support-us-and-save-time-it-was-created-by-martina-stiftinger-as-part-of-the-visua.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    width: 520px;
+    height: 600px;
+    margin-left: 250px;
+    flex-shrink: initial;
+    background-repeat: no-repeat;
+    justify-content: center;
+}
+.book{
+    text-align: center;
+    border: 2px solid rgb(21, 1, 27);
+    border-style:groove;
+    width: 400px;
+    height: 400px;
+    margin: 45px;
+    padding-top: 92px;
+    color: rgb(244, 237, 245);
+    font-size: larger;
+    /* margin-top: 95px; */
+    backdrop-filter: blur(15px);
+}

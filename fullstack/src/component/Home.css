@@ -1,0 +1,61 @@
+.menu{
+    border: 2px solid black;
+    padding-top: 0pt;
+    margin-top: -280px;
+    margin-left: 200px;
+    width:max-content;
+    height: 50px;
+}
+.whole1{
+    height: max-content;
+    width: 2500px;
+}
+.party1{
+    margin-left: 90px;
+    width: 621px;
+    height: 501px;
+    background-image: url("https://img.freepik.com/free-photo/restaurant-hall-with-small-stage-monitor-red-curtains-brick-walls-white-napoleon-chairs_140725-8447.jpg");
+}
+.partyone{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.party12{
+    background-color: aliceblue;
+    border: 2px solid black;
+    /* margin-left: 700px; */
+    width: 500px;
+    height: 300px;
+    
+    
+}
+.party2{
+    background: url("https://img.freepik.com/free-photo/decorated-banquet-hall-with-flowers_8353-10058.jpg?size=626&ext=jpg&ga=GA1.1.632798143.1705363200&semt=ais");
+    width: 626px;
+    height: 417px;
+    margin-top: 60px;
+    margin-left:95px
+}
+.party21{
+    background-color: aliceblue;
+    border: 2px solid black;
+    /* margin-left: 850px; */
+    width: 500px;
+    height: 300px;
+    margin-top: 65px;
+}
+.party3{
+    width: 500px;
+    height: 158px;
+    margin-top: 60px;
+    margin-left:95px
+}
+.party31{
+    background-color: aliceblue;
+    border: 2px solid black;
+    margin-left: 100px;
+    width: 500px;
+    height: 300px;
+    margin-top: 65px;
+}
